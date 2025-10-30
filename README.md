@@ -26,9 +26,7 @@ In each round:
 
 ## 📱 Screenshots
 | Home Screen | Settings Screen | Game Screen |
-<p align="center">
   <img src="https://github.com/user-attachments/assets/e6eb5fd6-6709-403b-8106-d333f74ace8f" alt="Home Screen" width="220"/>
   <img src="https://github.com/user-attachments/assets/4792581f-8fb3-480c-915d-d5751a700263" alt="Settings Screen" width="220"/>
-  <img src="https://github.com/user-attachments/assets/d1bc078c-294e-43d5-9d40-c59dde9fa07e" alt="Name Entry" width="220"/>
+  <img src="https://github.com/user-attachments/assets/d4033cec-6a64-4ead-bb55-f0b1c27d6b98" alt="Name Entry" width="220"/>
   <img src="https://github.com/user-attachments/assets/2cfbb42b-4a0a-4879-a105-d34e4be337f8" alt="Time Over Screen" width="220"/>
-</p>)
